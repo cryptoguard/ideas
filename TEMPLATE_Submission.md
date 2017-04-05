@@ -24,8 +24,8 @@ Short, simple and understandable even for non-involved people.
 * a short
 * pointlist
 
-## side notes
+## Notes
 Short, simple and understandable even for non-involved people.
 
-## attachements
+## Attachments
 https://gist.github.com/DrDBanner/b309fd532528de989079f4ea02ee03da
